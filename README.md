@@ -36,10 +36,25 @@ All tasks are implemented in **C++** and demonstrate fundamental principles of o
 cpp-oop-labs/
 │
 ├── Lab01/
+        Header.h
+        Lab assigment #1
+        Source.cpp
 ├── Lab02/
+        Header.h
+        Lab assigment #1
+        Source.cpp
 ├── Lab03/
+        Header.h
+        Lab assigment #1
+        Source.cpp
 ├── Lab04/
+        Header.h
+        Lab assigment #1
+        Source.cpp
 ├── Lab05/
+        Header.h
+        Lab assigment #1
+        Source.cpp
 └── README.md
 ```
 
